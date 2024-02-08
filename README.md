@@ -6,16 +6,16 @@ Door deze opdracht te aanvaarden werd er een GitHub repository voor je aangemaak
 - Open VS Code
 - Clone repository
 
-<img src="media/github.png" alt="nmp init" width="250" />
-<img src="media/clone.png" alt="nmp init" width="250" />
+<img src="https://github.com/PXL-1DVO-WebAdvanced/scss-opdracht1/blob/media/images/github.png?raw=true" alt="nmp init" width="250" />
+<img src="https://github.com/PXL-1DVO-WebAdvanced/scss-opdracht1/blob/media/images/clone.png?raw=true" alt="nmp init" width="250" />
 
 ## 2. Initialiseer project
 Voorlopig bevat de repository enkel een readme.md en een .gitignore bestand. Maak een nieuw Node.js project aan met de standaardwaarden door onderstaande commando uit te voeren in de terminal in de root van de projectfolder:
 
     npm init -y
 
-<img src="media/npm-init.png" alt="nmp init" width="250" />
-<img src="media/package-json.png" alt="nmp init" width="250" />
+<img src="https://github.com/PXL-1DVO-WebAdvanced/scss-opdracht1/blob/media/images/npm-init.png?raw=true" alt="nmp init" width="250" />
+<img src="https://github.com/PXL-1DVO-WebAdvanced/scss-opdracht1/blob/media/images/package-json.png?raw=true" alt="nmp init" width="250" />
 
 Wijzig de inhoud en verwijder eventuele scripts uit het package.json bestand.
 
@@ -48,7 +48,7 @@ Maak een dev script in het package.json bestand aan dat er voor zorgt dat het ma
 - Maak in de scss-folder een nieuw bestand aan: main.scss
 - Maak in de root folder een nieuw bestand aan: index.html
 
-<img src="media/projectstructure.png" alt="project" width="250" />
+<img src="https://github.com/PXL-1DVO-WebAdvanced/scss-opdracht1/blob/media/images/projectstructure.png?raw=true" alt="project" width="250" />
 
 **index.html:**
 
@@ -80,4 +80,4 @@ Voer het dev script uit met onderstaand commando in de terminal en bekijk het re
 *"dev" is de naam van het script zoals we dit hebben toegevoegd aan het package.json bestand*
 
 ## Extensions
-<img src="media/vscode-extensions.png" alt="extensions" />
+<img src="https://github.com/PXL-1DVO-WebAdvanced/scss-opdracht1/blob/media/images/vscode-extensions.png?raw=true" alt="extensions" />
