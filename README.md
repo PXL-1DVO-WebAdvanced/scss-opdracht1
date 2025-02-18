@@ -80,4 +80,6 @@ Voer het dev script uit met onderstaand commando in de terminal en bekijk het re
 *"dev" is de naam van het script zoals we dit hebben toegevoegd aan het package.json bestand*
 
 ## Extensions
+Installeer [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) om je website lokaal te hosten (en te bekijken)
+
 <img src="https://github.com/PXL-1DVO-WebAdvanced/scss-opdracht1/blob/media/images/vscode-extensions.png?raw=true" alt="extensions" />
